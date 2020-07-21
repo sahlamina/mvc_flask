@@ -1,0 +1,56 @@
+3 amigos
+- Business: what problem are we trying to solve? User stories, requirements, acceptance criteria
+- Development: How might we build a solution to solve that problem?
+- Testing: What the testers
+
+Persona
+- The archetypical person who would interact with a system - if you want to design a system, think about who will be using it
+
+Information radiator
+- AKA Big Visible Chart: it's a representation of project information kept plainly insight within an agile development
+- team's shared workspace
+- Generic term which includes burn down charts, planning boards and story boards
+- helps keep team focused on what really needs their attention and promotes transparency
+
+Scrum artifacts,
+- Product vision
+- Sprint goal (end product)
+- Product backlog
+- Sprint backlog
+- Definition of done
+- Burn down chart
+
+scrum events,
+- Backlog planning
+- Sprint planning
+- Sprint
+- Daily stand up
+- Sprint review
+- Sprint retrospective
+
+scrum roles,
+- Product owner
+- Scrum master
+- Scrum development team
+
+sprint review
+- Reviews sprint review weekly, looks back at work done with product owner
+
+sprint retrospective
+- Reviews sprint based on dev team and scrum master in terms of work methods,
+ potential improvements etc.
+
+Starfish retrospective, Root cause Analysis-part of retrospective
+
+Agile vales and principles
+
+
+
+
+
+
+
+
+
+
+
